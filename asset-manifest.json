@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_Sushimania/static/css/main.11595833.css",
+    "main.css": "/react_Sushimania/static/css/main.ad69a7a1.css",
     "main.js": "/react_Sushimania/static/js/main.db852d95.js",
     "static/media/slider_busines_lunch.jpg": "/react_Sushimania/static/media/slider_busines_lunch.3a0a69acdf0ef17bddcc.jpg",
     "static/media/slider_happy_time.jpeg": "/react_Sushimania/static/media/slider_happy_time.a59c04a192d7a7f7be24.jpeg",
@@ -11,11 +11,11 @@
     "static/media/icon-close.svg": "/react_Sushimania/static/media/icon-close.189b0d09e4d9de3eaef4.svg",
     "static/media/icon_arrow.svg": "/react_Sushimania/static/media/icon_arrow.239cedcb54c59432e9d5.svg",
     "static/media/checkmark_icon_125020.svg": "/react_Sushimania/static/media/checkmark_icon_125020.ab134bd0e1260d1465f1.svg",
-    "main.11595833.css.map": "/react_Sushimania/static/css/main.11595833.css.map",
+    "main.ad69a7a1.css.map": "/react_Sushimania/static/css/main.ad69a7a1.css.map",
     "main.db852d95.js.map": "/react_Sushimania/static/js/main.db852d95.js.map"
   },
   "entrypoints": [
-    "static/css/main.11595833.css",
+    "static/css/main.ad69a7a1.css",
     "static/js/main.db852d95.js"
   ]
 }
